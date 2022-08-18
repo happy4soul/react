@@ -1,0 +1,18 @@
+.heading {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+.col {
+  padding-bottom: 5rem;
+}
+.row {
+  padding-top: 5rem;
+}
